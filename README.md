@@ -1,6 +1,6 @@
 # todos
 
-Test
+Preview: https://boring-franklin-1354f8.netlify.app
 ## Project setup
 ```
 npm install
